@@ -1,4 +1,1 @@
-
-matplotlib.pyplot
-pandas-dev
-numpy-dev
+matplotlib 3.7.2
